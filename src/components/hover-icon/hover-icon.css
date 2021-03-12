@@ -1,0 +1,13 @@
+.hover-icon{
+    position: absolute;
+    width: 10%;
+    z-index: 20;
+
+    border: solid;
+    border-width: 2px;
+    border-color: black;
+}
+
+.hover-icon:hover{
+    width: 15%;
+}

@@ -1,0 +1,13 @@
+.check-in-form {
+    display: flex;
+    flex-direction: column;
+}
+
+.check-in-form-row {
+    display: flex;
+    flex-direction: row;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}

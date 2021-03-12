@@ -1,0 +1,47 @@
+.spring-test {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.link-dump {
+    text-align: center;
+    padding-top: 20%;
+    padding-right: 3%;
+}
+
+.link-dump a{
+    color: black;
+}
+
+.deck {
+    position: absolute;
+}
+
+.baseplate {
+    position: absolute;
+    padding-top: 29%;
+    padding-right: 3%;
+    width: 20%;
+}
+
+.kingpin {
+    position: absolute;
+    padding-top: 30%;
+    padding-right: 3%;
+}
+
+.left-wheel {
+    position: absolute;
+    padding-top: 27%;
+    padding-right: 22%;
+    width: 10%;
+}
+
+.right-wheel {
+    position: absolute;
+    padding-top: 27%;
+    padding-left: 17%;
+    width: 10%;
+}

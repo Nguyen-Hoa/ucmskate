@@ -1,0 +1,51 @@
+.spring-home {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.link-dump {
+    text-align: center;
+    padding-top: 20%;
+    /* padding-right: 2%; */
+    z-index: 10;
+}
+
+.deck {
+    position: absolute;
+}
+
+.baseplate {
+    position: absolute;
+    padding-top: 29%;
+    padding-left: 1%;
+    width: 20%;
+}
+
+.kingpin {
+    position: absolute;
+    padding-top: 30%;
+    padding-left: 1%;
+}
+
+.left-wheel {
+    position: absolute;
+    padding-top: 27%;
+    padding-right: 21%;
+    width: 10%;
+}
+
+.right-wheel {
+    position: absolute;
+    padding-top: 27%;
+    padding-left: 23%;
+    width: 10%;
+}
+
+@media (max-width: 1200px){
+    .link-dump {
+        padding-top: 50%;
+        width: 25%;
+    }
+}

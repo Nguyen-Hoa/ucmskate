@@ -1,0 +1,18 @@
+.Home {
+    /* font-family: 'Georgia', serif, 'Ubuntu', sans-serif; */
+    width: 100%;
+    height: 100%;
+    position: absolute; top: 0; left: 0;
+
+    background: url('./../../assets/png/half-deck-eyes.png') no-repeat center center;
+    background-size:40%;
+}
+
+.link-list {
+    position: absolute; top: 60%; width: 100%;
+    text-align: center;
+}
+
+.link-list a {
+    color: black;
+}
